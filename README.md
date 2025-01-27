@@ -2,15 +2,13 @@
 
 ### 🗡️ About me
 
+- 🎨 Front-End Developer | Crafting Exceptional Digital Experiences ✨
+
 - </> **HTML, CSS, JS, React**
 
 - 🌈 **Bootstrap**
 
 - 💻 **WordPress**
-
-- ⚡ **MySQL, PostgreSQL**  
-
-- 🎨 Front-End Developer | Crafting Exceptional Digital Experiences ✨
 
 <br>
 
