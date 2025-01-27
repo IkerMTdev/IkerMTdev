@@ -2,7 +2,7 @@
 
 ### 🗡️ About me
 
-- </> **PHP, Laravel**
+- </> **HTML, CSS, JS, React**
 
 - 🌈 **Bootstrap**
 
@@ -10,8 +10,8 @@
 
 - ⚡ **MySQL, PostgreSQL**  
 
-- 🚀 **Building Scalable & Secure Web Applications** 🔒
-  
+- 🎨 Front-End Developer | Crafting Exceptional Digital Experiences ✨
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
