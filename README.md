@@ -6,7 +6,7 @@
 
 - </> **HTML, CSS, JS, React**
 
-- 🌈 **Bootstrap**
+- 🌈 **Bootstrap, Tailwind**
 
 - 💻 **WordPress**
 
